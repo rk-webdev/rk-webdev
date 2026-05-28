@@ -1,4 +1,4 @@
-# 👨🧑🏿‍💻 RK WebDev
+# 🧑🏿‍💻 RK WebDev
 
 **`Desenvolvedor FullStack`**
 
